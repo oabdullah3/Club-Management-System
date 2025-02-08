@@ -121,8 +121,3 @@ Follow the on-screen instructions to interact with the application.
 - **ExMemberNotUsingThisEquipment**: Thrown when a member is not using the specified equipment.
 - **ExOverlapRequest**: Thrown when a request period overlaps with an existing borrowing/request period.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
